@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "My favorite animal is CAT",
+    "src": "images/design-deskcat.jpeg",
+    "alt": "cat"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "name": "CAT is cute",
+    "src": "images/design-deskcat2.jpeg",
+    "alt": "cat"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "very... very...",
+    "src": "images/design-deskcat3.jpeg",
+    "alt": "cat"
   }
 ]
